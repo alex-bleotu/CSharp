@@ -12,9 +12,32 @@ namespace OJTI_2023
 {
     public partial class Autentificare : Form
     {
+        DataBase dataBase;
+
         public Autentificare()
         {
             InitializeComponent();
+            dataBase = new DataBase();
+            dataBase.Populate();
+        }
+
+        private void loginButton_Click(object sender, EventArgs e)
+        {
+            bool action = dataBase.Login(emailTextBox.Text, passwordTextBox.Text);
+            if (action)
+            {
+                this.Hide();
+                AlegeJoc alegeJoc = new AlegeJoc(emailTextBox.Text);
+                alegeJoc.Show();
+                emailTextBox.Clear();
+                passwordTextBox.Clear();
+            }
+            else
+            {
+                emailTextBox.Clear();
+                passwordTextBox.Clear();
+                MessageBox.Show("Date de autentificare invalide!");
+            }
         }
     }
 }

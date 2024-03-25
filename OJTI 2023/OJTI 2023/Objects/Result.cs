@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OJTI_2023.Objects
+namespace OJTI_2023
 {
     public class Result
     {
