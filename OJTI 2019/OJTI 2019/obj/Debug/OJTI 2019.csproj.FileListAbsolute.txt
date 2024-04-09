@@ -1,0 +1,13 @@
+C:\Users\alexb\Projects\CSharp\OJTI 2019\OJTI 2019\bin\Debug\OJTI 2019.exe.config
+C:\Users\alexb\Projects\CSharp\OJTI 2019\OJTI 2019\bin\Debug\OJTI 2019.exe
+C:\Users\alexb\Projects\CSharp\OJTI 2019\OJTI 2019\bin\Debug\OJTI 2019.pdb
+C:\Users\alexb\Projects\CSharp\OJTI 2019\OJTI 2019\obj\Debug\OJTI 2019.csproj.AssemblyReference.cache
+C:\Users\alexb\Projects\CSharp\OJTI 2019\OJTI 2019\obj\Debug\OJTI_2019.FreeBookHome.resources
+C:\Users\alexb\Projects\CSharp\OJTI 2019\OJTI 2019\obj\Debug\OJTI_2019.Properties.Resources.resources
+C:\Users\alexb\Projects\CSharp\OJTI 2019\OJTI 2019\obj\Debug\OJTI 2019.csproj.GenerateResource.cache
+C:\Users\alexb\Projects\CSharp\OJTI 2019\OJTI 2019\obj\Debug\OJTI 2019.csproj.CoreCompileInputs.cache
+C:\Users\alexb\Projects\CSharp\OJTI 2019\OJTI 2019\obj\Debug\OJTI 2019.exe
+C:\Users\alexb\Projects\CSharp\OJTI 2019\OJTI 2019\obj\Debug\OJTI 2019.pdb
+C:\Users\alexb\Projects\CSharp\OJTI 2019\OJTI 2019\obj\Debug\OJTI_2019.CreeazaContFreeBook.resources
+C:\Users\alexb\Projects\CSharp\OJTI 2019\OJTI 2019\obj\Debug\OJTI_2019.LogareFreeBook.resources
+C:\Users\alexb\Projects\CSharp\OJTI 2019\OJTI 2019\obj\Debug\OJTI_2019.MeniuFreeBook.resources

@@ -1,0 +1,10 @@
+C:\Users\alexb\Projects\CSharp\GraphicsTest\GraphicsTest\bin\Debug\GraphicsTest.exe.config
+C:\Users\alexb\Projects\CSharp\GraphicsTest\GraphicsTest\bin\Debug\GraphicsTest.exe
+C:\Users\alexb\Projects\CSharp\GraphicsTest\GraphicsTest\bin\Debug\GraphicsTest.pdb
+C:\Users\alexb\Projects\CSharp\GraphicsTest\GraphicsTest\obj\Debug\GraphicsTest.csproj.AssemblyReference.cache
+C:\Users\alexb\Projects\CSharp\GraphicsTest\GraphicsTest\obj\Debug\GraphicsTest.Form1.resources
+C:\Users\alexb\Projects\CSharp\GraphicsTest\GraphicsTest\obj\Debug\GraphicsTest.Properties.Resources.resources
+C:\Users\alexb\Projects\CSharp\GraphicsTest\GraphicsTest\obj\Debug\GraphicsTest.csproj.GenerateResource.cache
+C:\Users\alexb\Projects\CSharp\GraphicsTest\GraphicsTest\obj\Debug\GraphicsTest.csproj.CoreCompileInputs.cache
+C:\Users\alexb\Projects\CSharp\GraphicsTest\GraphicsTest\obj\Debug\GraphicsTest.exe
+C:\Users\alexb\Projects\CSharp\GraphicsTest\GraphicsTest\obj\Debug\GraphicsTest.pdb

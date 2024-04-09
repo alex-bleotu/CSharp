@@ -1,0 +1,13 @@
+C:\Users\alexb\Projects\CSharp\OJTI 2022\OJTI 2022\bin\Debug\OJTI 2022.exe.config
+C:\Users\alexb\Projects\CSharp\OJTI 2022\OJTI 2022\bin\Debug\OJTI 2022.exe
+C:\Users\alexb\Projects\CSharp\OJTI 2022\OJTI 2022\bin\Debug\OJTI 2022.pdb
+C:\Users\alexb\Projects\CSharp\OJTI 2022\OJTI 2022\obj\Debug\OJTI 2022.csproj.AssemblyReference.cache
+C:\Users\alexb\Projects\CSharp\OJTI 2022\OJTI 2022\obj\Debug\OJTI_2022.Properties.Resources.resources
+C:\Users\alexb\Projects\CSharp\OJTI 2022\OJTI 2022\obj\Debug\OJTI 2022.csproj.GenerateResource.cache
+C:\Users\alexb\Projects\CSharp\OJTI 2022\OJTI 2022\obj\Debug\OJTI 2022.csproj.CoreCompileInputs.cache
+C:\Users\alexb\Projects\CSharp\OJTI 2022\OJTI 2022\obj\Debug\OJTI 2022.exe
+C:\Users\alexb\Projects\CSharp\OJTI 2022\OJTI 2022\obj\Debug\OJTI 2022.pdb
+C:\Users\alexb\Projects\CSharp\OJTI 2022\OJTI 2022\obj\Debug\OJTI_2022.Autentificare.resources
+C:\Users\alexb\Projects\CSharp\OJTI 2022\OJTI 2022\obj\Debug\OJTI_2022.Inregistrare.resources
+C:\Users\alexb\Projects\CSharp\OJTI 2022\OJTI 2022\obj\Debug\OJTI_2022.Vizualizare.resources
+C:\Users\alexb\Projects\CSharp\OJTI 2022\OJTI 2022\obj\Debug\OJTI_2022.AdaugareMasura.resources
