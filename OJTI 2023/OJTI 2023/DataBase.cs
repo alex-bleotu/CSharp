@@ -12,7 +12,8 @@ namespace OJTI_2023
         SqlConnection connection;
 
         public DataBase() {
-            connection = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\alexb\OneDrive\Documents\JocEducativ.mdf;Integrated Security=True;Connect Timeout=30;");
+            connection = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=" + Application.StartupPath + @"\JocEducativ.mdf;Integrated Security=True;Connect Timeout=30;");
+            connection.Open();
         }
 
         public bool Login(string email, string password) {
@@ -110,13 +111,11 @@ namespace OJTI_2023
 
         public void Populate()
         {
-            connection.Open();
-
             ResetTableWithIdent("Rezultate");
             ResetTable("Utilizatori");
             ResetTableWithIdent("Itemi");
 
-            using (StreamReader file = new StreamReader(@"C:\Users\alexb\Projects\CSharp\OJTI 2023\OJTI 2023\Resources\Utilizatori.txt"))
+            using (StreamReader file = new StreamReader(Application.StartupPath + @"\Resources\Utilizatori.txt"))
             {
                 string line;
                 while ((line = file.ReadLine()) != null)
@@ -136,7 +135,7 @@ namespace OJTI_2023
                 }
             }
 
-            using (StreamReader file = new StreamReader(@"C:\Users\alexb\Projects\CSharp\OJTI 2023\OJTI 2023\Resources\Rezultate.txt"))
+            using (StreamReader file = new StreamReader(Application.StartupPath + @"\Resources\Rezultate.txt"))
             {
                 string line;
                 while ((line = file.ReadLine()) != null)
@@ -156,7 +155,7 @@ namespace OJTI_2023
                 }
             }
 
-            using (StreamReader file = new StreamReader(@"C:\Users\alexb\Projects\CSharp\OJTI 2023\OJTI 2023\Resources\Itemi.txt"))
+            using (StreamReader file = new StreamReader(Application.StartupPath + @"\Resources\Itemi.txt"))
             {
                 string line;
 
@@ -179,8 +178,6 @@ namespace OJTI_2023
                     command.ExecuteNonQuery();
                 }
             }
-
-            connection.Close();
         }
     }
 }

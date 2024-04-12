@@ -19,6 +19,10 @@ namespace OJTI_2023
             InitializeComponent();
             dataBase = new DataBase();
             dataBase.Populate();
+
+            this.Hide();
+            Sarpe form = new Sarpe("");
+            form.Show();
         }
 
         private void loginButton_Click(object sender, EventArgs e)
