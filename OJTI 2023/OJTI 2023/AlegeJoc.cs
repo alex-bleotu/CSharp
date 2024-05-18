@@ -63,7 +63,7 @@ namespace OJTI_2023
         private void snakeButton_Click(object sender, EventArgs e)
         {
             this.Hide();
-            Sarpe sarpe = new Sarpe();
+            Sarpe sarpe = new Sarpe(user.email);
             sarpe.Show();
         }
     }
