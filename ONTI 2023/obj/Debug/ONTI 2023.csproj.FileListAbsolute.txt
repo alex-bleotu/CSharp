@@ -9,3 +9,15 @@ C:\Users\alexb\Projects\CSharp\ONTI 2023\obj\Debug\ONTI 2023.exe
 C:\Users\alexb\Projects\CSharp\ONTI 2023\obj\Debug\ONTI 2023.pdb
 C:\Users\alexb\Projects\CSharp\ONTI 2023\obj\Debug\ONTI_2023.Auth.resources
 C:\Users\alexb\Projects\CSharp\ONTI 2023\obj\Debug\ONTI_2023.Register.resources
+D:\Projects\GitHub\C#\ONTI 2023\bin\Debug\ONTI 2023.exe.config
+D:\Projects\GitHub\C#\ONTI 2023\bin\Debug\ONTI 2023.exe
+D:\Projects\GitHub\C#\ONTI 2023\bin\Debug\ONTI 2023.pdb
+D:\Projects\GitHub\C#\ONTI 2023\obj\Debug\ONTI 2023.csproj.AssemblyReference.cache
+D:\Projects\GitHub\C#\ONTI 2023\obj\Debug\ONTI_2023.AlegeJoc.resources
+D:\Projects\GitHub\C#\ONTI 2023\obj\Debug\ONTI_2023.Auth.resources
+D:\Projects\GitHub\C#\ONTI 2023\obj\Debug\ONTI_2023.Properties.Resources.resources
+D:\Projects\GitHub\C#\ONTI 2023\obj\Debug\ONTI_2023.Register.resources
+D:\Projects\GitHub\C#\ONTI 2023\obj\Debug\ONTI 2023.csproj.GenerateResource.cache
+D:\Projects\GitHub\C#\ONTI 2023\obj\Debug\ONTI 2023.csproj.CoreCompileInputs.cache
+D:\Projects\GitHub\C#\ONTI 2023\obj\Debug\ONTI 2023.exe
+D:\Projects\GitHub\C#\ONTI 2023\obj\Debug\ONTI 2023.pdb

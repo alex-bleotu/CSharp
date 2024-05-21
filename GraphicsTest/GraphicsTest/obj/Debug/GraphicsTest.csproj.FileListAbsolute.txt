@@ -8,3 +8,13 @@ C:\Users\alexb\Projects\CSharp\GraphicsTest\GraphicsTest\obj\Debug\GraphicsTest.
 C:\Users\alexb\Projects\CSharp\GraphicsTest\GraphicsTest\obj\Debug\GraphicsTest.csproj.CoreCompileInputs.cache
 C:\Users\alexb\Projects\CSharp\GraphicsTest\GraphicsTest\obj\Debug\GraphicsTest.exe
 C:\Users\alexb\Projects\CSharp\GraphicsTest\GraphicsTest\obj\Debug\GraphicsTest.pdb
+D:\Projects\GitHub\C#\GraphicsTest\GraphicsTest\bin\Debug\GraphicsTest.exe.config
+D:\Projects\GitHub\C#\GraphicsTest\GraphicsTest\bin\Debug\GraphicsTest.exe
+D:\Projects\GitHub\C#\GraphicsTest\GraphicsTest\bin\Debug\GraphicsTest.pdb
+D:\Projects\GitHub\C#\GraphicsTest\GraphicsTest\obj\Debug\GraphicsTest.csproj.AssemblyReference.cache
+D:\Projects\GitHub\C#\GraphicsTest\GraphicsTest\obj\Debug\GraphicsTest.Form1.resources
+D:\Projects\GitHub\C#\GraphicsTest\GraphicsTest\obj\Debug\GraphicsTest.Properties.Resources.resources
+D:\Projects\GitHub\C#\GraphicsTest\GraphicsTest\obj\Debug\GraphicsTest.csproj.GenerateResource.cache
+D:\Projects\GitHub\C#\GraphicsTest\GraphicsTest\obj\Debug\GraphicsTest.csproj.CoreCompileInputs.cache
+D:\Projects\GitHub\C#\GraphicsTest\GraphicsTest\obj\Debug\GraphicsTest.exe
+D:\Projects\GitHub\C#\GraphicsTest\GraphicsTest\obj\Debug\GraphicsTest.pdb

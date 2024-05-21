@@ -9,9 +9,22 @@ using System.Windows.Forms;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.ListView;
 using System.Xml.Linq;
 using System.Globalization;
+using System.Data;
 
 namespace ONTI_2023
 {
+    public class Result {
+        public int score;
+        public int type;
+        public DateTime date;
+
+        public Result(int score, int type, DateTime date) {
+            this.score = score;
+            this.type = type;
+            this.date = date;
+        }
+    }
+
     internal class Database
     {
         SqlConnection connection;
@@ -98,6 +111,29 @@ namespace ONTI_2023
             command.Parameters.AddWithValue("@c", password);
 
             command.ExecuteNonQuery();
+        }
+
+        public string GetUser(string email) {
+            SqlCommand command = new SqlCommand("SELECT NumeUtilizator, Parola FROM Utilizatori WHERE EmailUtilizator='" + email + "';", connection);
+
+            return command.ExecuteScalar().ToString();
+        }
+
+        public List<Result> GetResults(string email) {
+            SqlDataAdapter adapter = new SqlDataAdapter("SELECT TipJoc, PunctajJoc, Data FROM Rezultate WHERE EmailUtilizator='" + email + "';", connection);
+            DataTable table = new DataTable();
+
+            adapter.Fill(table);
+
+            List<Result> results = new List<Result>();
+
+            foreach (DataRow row in table.Rows) {
+                Result result = new Result(Convert.ToInt32(row[1]), Convert.ToInt32(row[0]), DateTime.Parse(row[2].ToString()));
+
+                results.Add(result);
+            }
+
+            return results;
         }
     }
 }

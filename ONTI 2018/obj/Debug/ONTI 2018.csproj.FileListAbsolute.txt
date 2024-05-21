@@ -1,0 +1,12 @@
+D:\Projects\GitHub\C#\ONTI 2018\obj\Debug\ONTI 2018.csproj.AssemblyReference.cache
+D:\Projects\GitHub\C#\ONTI 2018\obj\Debug\ONTI_2018.Form1.resources
+D:\Projects\GitHub\C#\ONTI 2018\obj\Debug\ONTI_2018.Logare.resources
+D:\Projects\GitHub\C#\ONTI 2018\obj\Debug\ONTI_2018.Properties.Resources.resources
+D:\Projects\GitHub\C#\ONTI 2018\obj\Debug\ONTI 2018.csproj.GenerateResource.cache
+D:\Projects\GitHub\C#\ONTI 2018\obj\Debug\ONTI 2018.csproj.CoreCompileInputs.cache
+D:\Projects\GitHub\C#\ONTI 2018\bin\Debug\ONTI 2018.exe.config
+D:\Projects\GitHub\C#\ONTI 2018\bin\Debug\ONTI 2018.exe
+D:\Projects\GitHub\C#\ONTI 2018\bin\Debug\ONTI 2018.pdb
+D:\Projects\GitHub\C#\ONTI 2018\obj\Debug\ONTI 2018.exe
+D:\Projects\GitHub\C#\ONTI 2018\obj\Debug\ONTI 2018.pdb
+D:\Projects\GitHub\C#\ONTI 2018\obj\Debug\ONTI_2018.VizualizareLectii.resources

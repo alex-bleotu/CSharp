@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\GitHub\\C#\\ONTI 2019\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{449D4DEA-7EBA-44E4-8535-BCEB1ACA823E}|ONTI 2019.csproj|d:\\projects\\github\\c#\\onti 2019\\previzualizarecarte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{449D4DEA-7EBA-44E4-8535-BCEB1ACA823E}|ONTI 2019.csproj|solutionrelative:previzualizarecarte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{449D4DEA-7EBA-44E4-8535-BCEB1ACA823E}|ONTI 2019.csproj|D:\\Projects\\GitHub\\C#\\ONTI 2019\\previzualizarecarte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{449D4DEA-7EBA-44E4-8535-BCEB1ACA823E}|ONTI 2019.csproj|solutionrelative:previzualizarecarte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{449D4DEA-7EBA-44E4-8535-BCEB1ACA823E}|ONTI 2019.csproj|D:\\Projects\\GitHub\\C#\\ONTI 2019\\bibliotecarbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{449D4DEA-7EBA-44E4-8535-BCEB1ACA823E}|ONTI 2019.csproj|solutionrelative:bibliotecarbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{449D4DEA-7EBA-44E4-8535-BCEB1ACA823E}|ONTI 2019.csproj|D:\\Projects\\GitHub\\C#\\ONTI 2019\\bibliotecarbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{449D4DEA-7EBA-44E4-8535-BCEB1ACA823E}|ONTI 2019.csproj|solutionrelative:bibliotecarbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{449D4DEA-7EBA-44E4-8535-BCEB1ACA823E}|ONTI 2019.csproj|D:\\Projects\\GitHub\\C#\\ONTI 2019\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{449D4DEA-7EBA-44E4-8535-BCEB1ACA823E}|ONTI 2019.csproj|solutionrelative:database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrevizualizareCarte.cs",
+              "DocumentMoniker": "D:\\Projects\\GitHub\\C#\\ONTI 2019\\PrevizualizareCarte.cs",
+              "RelativeDocumentMoniker": "PrevizualizareCarte.cs",
+              "ToolTip": "D:\\Projects\\GitHub\\C#\\ONTI 2019\\PrevizualizareCarte.cs",
+              "RelativeToolTip": "PrevizualizareCarte.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:14:26.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrevizualizareCarte.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\GitHub\\C#\\ONTI 2019\\PrevizualizareCarte.cs",
+              "RelativeDocumentMoniker": "PrevizualizareCarte.cs",
+              "ToolTip": "D:\\Projects\\GitHub\\C#\\ONTI 2019\\PrevizualizareCarte.cs [Design]",
+              "RelativeToolTip": "PrevizualizareCarte.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:08:57.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BibliotecarBiblioteca.cs",
+              "DocumentMoniker": "D:\\Projects\\GitHub\\C#\\ONTI 2019\\BibliotecarBiblioteca.cs",
+              "RelativeDocumentMoniker": "BibliotecarBiblioteca.cs",
+              "ToolTip": "D:\\Projects\\GitHub\\C#\\ONTI 2019\\BibliotecarBiblioteca.cs",
+              "RelativeToolTip": "BibliotecarBiblioteca.cs",
+              "ViewState": "AQIAAAsBAAAAAAAAAAAswCkBAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T07:31:44.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BibliotecarBiblioteca.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\GitHub\\C#\\ONTI 2019\\BibliotecarBiblioteca.cs",
+              "RelativeDocumentMoniker": "BibliotecarBiblioteca.cs",
+              "ToolTip": "D:\\Projects\\GitHub\\C#\\ONTI 2019\\BibliotecarBiblioteca.cs [Design]",
+              "RelativeToolTip": "BibliotecarBiblioteca.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T07:31:36.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "D:\\Projects\\GitHub\\C#\\ONTI 2019\\DataBase.cs",
+              "RelativeDocumentMoniker": "DataBase.cs",
+              "ToolTip": "D:\\Projects\\GitHub\\C#\\ONTI 2019\\DataBase.cs",
+              "RelativeToolTip": "DataBase.cs",
+              "ViewState": "AQIAAGIBAAAAAAAAAAAiwGEBAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:30:00Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
