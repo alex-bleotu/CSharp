@@ -1,8 +1,10 @@
-﻿using System;
+﻿using ONTI_2018.Properties;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -22,12 +24,14 @@ namespace ONTI_2018 {
             leasons = dataBase.GetLeasons();
 
             foreach (Leason le in leasons)
-                listBox1.Items.Add(le.title);
+                listBox1.Items.Add(le.title.Trim());
         }
 
         private void button1_Click(object sender, EventArgs e) {
-            MessageBox.Show(Application.StartupPath + @"\Resurse\ContinutLectii\" + listBox1.SelectedItem.ToString() + ".bmp");
-            pictureBox1.Image = Image.FromFile(Application.StartupPath + @"\Resurse\ContinutLectii\" + listBox1.SelectedItem.ToString() + ".bmp");
+            if (listBox1.SelectedItem == null)
+                return;
+
+            pictureBox1.Image = (Bitmap)Resources.ResourceManager.GetObject(listBox1.SelectedItem.ToString());
         }
     }
 }

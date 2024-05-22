@@ -37,5 +37,11 @@ namespace ONTI_2018 {
             VizualizareLectii form = new VizualizareLectii();
             form.Show();
         }
+
+        private void button4_Click(object sender, EventArgs e) {
+            this.Hide();
+            GhicesteRegiunea form = new GhicesteRegiunea();
+            form.Show();
+        }
     }
 }

@@ -10,3 +10,4 @@ D:\Projects\GitHub\C#\ONTI 2018\bin\Debug\ONTI 2018.pdb
 D:\Projects\GitHub\C#\ONTI 2018\obj\Debug\ONTI 2018.exe
 D:\Projects\GitHub\C#\ONTI 2018\obj\Debug\ONTI 2018.pdb
 D:\Projects\GitHub\C#\ONTI 2018\obj\Debug\ONTI_2018.VizualizareLectii.resources
+D:\Projects\GitHub\C#\ONTI 2018\obj\Debug\ONTI_2018.GhicesteRegiunea.resources

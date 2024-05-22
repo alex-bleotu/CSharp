@@ -53,6 +53,12 @@
     <Compile Include="CentenarStart.Designer.cs">
       <DependentUpon>CentenarStart.cs</DependentUpon>
     </Compile>
+    <Compile Include="GhicesteRegiunea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GhicesteRegiunea.Designer.cs">
+      <DependentUpon>GhicesteRegiunea.cs</DependentUpon>
+    </Compile>
     <Compile Include="Logare.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -70,6 +76,9 @@
     <EmbeddedResource Include="CentenarStart.resx">
       <DependentUpon>CentenarStart.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="GhicesteRegiunea.resx">
+      <DependentUpon>GhicesteRegiunea.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Logare.resx">
       <DependentUpon>Logare.cs</DependentUpon>
     </EmbeddedResource>
@@ -81,6 +90,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <EmbeddedResource Include="VizualizareLectii.resx">
       <DependentUpon>VizualizareLectii.cs</DependentUpon>
@@ -97,6 +107,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resurse\ContinutLectii\lectia1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resurse\ContinutLectii\lectia2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resurse\ContinutLectii\lectia3.bmp" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "D:\\Projects\\GitHub\\C#\\ONTI 2018\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{148EDC69-7317-4D99-A826-A7E47FF32CC4}|ONTI 2018.csproj|d:\\projects\\github\\c#\\onti 2018\\ghicesteregiunea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148EDC69-7317-4D99-A826-A7E47FF32CC4}|ONTI 2018.csproj|solutionrelative:ghicesteregiunea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148EDC69-7317-4D99-A826-A7E47FF32CC4}|ONTI 2018.csproj|d:\\projects\\github\\c#\\onti 2018\\ghicesteregiunea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{148EDC69-7317-4D99-A826-A7E47FF32CC4}|ONTI 2018.csproj|solutionrelative:ghicesteregiunea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148EDC69-7317-4D99-A826-A7E47FF32CC4}|ONTI 2018.csproj|D:\\Projects\\GitHub\\C#\\ONTI 2018\\centenarstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148EDC69-7317-4D99-A826-A7E47FF32CC4}|ONTI 2018.csproj|solutionrelative:centenarstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148EDC69-7317-4D99-A826-A7E47FF32CC4}|ONTI 2018.csproj|D:\\Projects\\GitHub\\C#\\ONTI 2018\\centenarstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{148EDC69-7317-4D99-A826-A7E47FF32CC4}|ONTI 2018.csproj|solutionrelative:centenarstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{148EDC69-7317-4D99-A826-A7E47FF32CC4}|ONTI 2018.csproj|d:\\projects\\github\\c#\\onti 2018\\vizualizarelectii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{148EDC69-7317-4D99-A826-A7E47FF32CC4}|ONTI 2018.csproj|solutionrelative:vizualizarelectii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -11,16 +27,8 @@
       "RelativeMoniker": "D:0:0:{148EDC69-7317-4D99-A826-A7E47FF32CC4}|ONTI 2018.csproj|solutionrelative:vizualizarelectii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{148EDC69-7317-4D99-A826-A7E47FF32CC4}|ONTI 2018.csproj|D:\\Projects\\GitHub\\C#\\ONTI 2018\\centenarstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{148EDC69-7317-4D99-A826-A7E47FF32CC4}|ONTI 2018.csproj|solutionrelative:centenarstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{148EDC69-7317-4D99-A826-A7E47FF32CC4}|ONTI 2018.csproj|D:\\Projects\\GitHub\\C#\\ONTI 2018\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{148EDC69-7317-4D99-A826-A7E47FF32CC4}|ONTI 2018.csproj|solutionrelative:database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{148EDC69-7317-4D99-A826-A7E47FF32CC4}|ONTI 2018.csproj|D:\\Projects\\GitHub\\C#\\ONTI 2018\\centenarstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{148EDC69-7317-4D99-A826-A7E47FF32CC4}|ONTI 2018.csproj|solutionrelative:centenarstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,6 +43,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GhicesteRegiunea.cs",
+              "DocumentMoniker": "D:\\Projects\\GitHub\\C#\\ONTI 2018\\GhicesteRegiunea.cs",
+              "RelativeDocumentMoniker": "GhicesteRegiunea.cs",
+              "ToolTip": "D:\\Projects\\GitHub\\C#\\ONTI 2018\\GhicesteRegiunea.cs",
+              "RelativeToolTip": "GhicesteRegiunea.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAwwHUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T13:41:23.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GhicesteRegiunea.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\GitHub\\C#\\ONTI 2018\\GhicesteRegiunea.cs",
+              "RelativeDocumentMoniker": "GhicesteRegiunea.cs",
+              "ToolTip": "D:\\Projects\\GitHub\\C#\\ONTI 2018\\GhicesteRegiunea.cs [Design]",
+              "RelativeToolTip": "GhicesteRegiunea.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T13:40:04.857Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VizualizareLectii.cs",
+              "DocumentMoniker": "D:\\Projects\\GitHub\\C#\\ONTI 2018\\VizualizareLectii.cs",
+              "RelativeDocumentMoniker": "VizualizareLectii.cs",
+              "ToolTip": "D:\\Projects\\GitHub\\C#\\ONTI 2018\\VizualizareLectii.cs",
+              "RelativeToolTip": "VizualizareLectii.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T13:27:24.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "VizualizareLectii.cs [Design]",
               "DocumentMoniker": "D:\\Projects\\GitHub\\C#\\ONTI 2018\\VizualizareLectii.cs",
               "RelativeDocumentMoniker": "VizualizareLectii.cs",
@@ -46,20 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "VizualizareLectii.cs",
-              "DocumentMoniker": "D:\\Projects\\GitHub\\C#\\ONTI 2018\\VizualizareLectii.cs",
-              "RelativeDocumentMoniker": "VizualizareLectii.cs",
-              "ToolTip": "D:\\Projects\\GitHub\\C#\\ONTI 2018\\VizualizareLectii.cs",
-              "RelativeToolTip": "VizualizareLectii.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T18:03:39.471Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "DataBase.cs",
               "DocumentMoniker": "D:\\Projects\\GitHub\\C#\\ONTI 2018\\DataBase.cs",
               "RelativeDocumentMoniker": "DataBase.cs",
@@ -67,7 +100,8 @@
               "RelativeToolTip": "DataBase.cs",
               "ViewState": "AQIAAFsAAAAAAAAAAAAuwHgAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T18:03:37.001Z"
+              "WhenOpened": "2024-05-21T18:03:37.001Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -77,20 +111,22 @@
               "RelativeDocumentMoniker": "CentenarStart.cs",
               "ToolTip": "D:\\Projects\\GitHub\\C#\\ONTI 2018\\CentenarStart.cs",
               "RelativeToolTip": "CentenarStart.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAIwB8AAAAYAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAwwC8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T17:37:32.879Z"
+              "WhenOpened": "2024-05-21T17:37:32.879Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "CentenarStart.cs [Design]",
               "DocumentMoniker": "D:\\Projects\\GitHub\\C#\\ONTI 2018\\CentenarStart.cs",
               "RelativeDocumentMoniker": "CentenarStart.cs",
               "ToolTip": "D:\\Projects\\GitHub\\C#\\ONTI 2018\\CentenarStart.cs [Design]",
               "RelativeToolTip": "CentenarStart.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T17:04:36.543Z"
+              "WhenOpened": "2024-05-21T17:04:36.543Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

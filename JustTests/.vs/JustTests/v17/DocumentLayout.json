@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\GitHub\\C#\\JustTests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6283683-BF16-4201-BE71-7B337E195D4F}|JustTests.csproj|d:\\projects\\github\\c#\\justtests\\test3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6283683-BF16-4201-BE71-7B337E195D4F}|JustTests.csproj|solutionrelative:test3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6283683-BF16-4201-BE71-7B337E195D4F}|JustTests.csproj|d:\\projects\\github\\c#\\justtests\\test3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6283683-BF16-4201-BE71-7B337E195D4F}|JustTests.csproj|solutionrelative:test3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6283683-BF16-4201-BE71-7B337E195D4F}|JustTests.csproj|d:\\projects\\github\\c#\\justtests\\test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6283683-BF16-4201-BE71-7B337E195D4F}|JustTests.csproj|solutionrelative:test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6283683-BF16-4201-BE71-7B337E195D4F}|JustTests.csproj|d:\\projects\\github\\c#\\justtests\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6283683-BF16-4201-BE71-7B337E195D4F}|JustTests.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6283683-BF16-4201-BE71-7B337E195D4F}|JustTests.csproj|d:\\projects\\github\\c#\\justtests\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6283683-BF16-4201-BE71-7B337E195D4F}|JustTests.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6283683-BF16-4201-BE71-7B337E195D4F}|JustTests.csproj|d:\\projects\\github\\c#\\justtests\\test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6283683-BF16-4201-BE71-7B337E195D4F}|JustTests.csproj|solutionrelative:test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test3.cs",
+              "DocumentMoniker": "D:\\Projects\\GitHub\\C#\\JustTests\\Test3.cs",
+              "RelativeDocumentMoniker": "Test3.cs",
+              "ToolTip": "D:\\Projects\\GitHub\\C#\\JustTests\\Test3.cs",
+              "RelativeToolTip": "Test3.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwCIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T15:15:26.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test3.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\GitHub\\C#\\JustTests\\Test3.cs",
+              "RelativeDocumentMoniker": "Test3.cs",
+              "ToolTip": "D:\\Projects\\GitHub\\C#\\JustTests\\Test3.cs [Design]",
+              "RelativeToolTip": "Test3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T15:15:19.546Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Test2.cs",
+              "DocumentMoniker": "D:\\Projects\\GitHub\\C#\\JustTests\\Test2.cs",
+              "RelativeDocumentMoniker": "Test2.cs",
+              "ToolTip": "D:\\Projects\\GitHub\\C#\\JustTests\\Test2.cs",
+              "RelativeToolTip": "Test2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAowBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T14:47:50.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Test2.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\GitHub\\C#\\JustTests\\Test2.cs",
+              "RelativeDocumentMoniker": "Test2.cs",
+              "ToolTip": "D:\\Projects\\GitHub\\C#\\JustTests\\Test2.cs [Design]",
+              "RelativeToolTip": "Test2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T14:47:29.298Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Projects\\GitHub\\C#\\JustTests\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Projects\\GitHub\\C#\\JustTests\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T14:41:17.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\GitHub\\C#\\JustTests\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Projects\\GitHub\\C#\\JustTests\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T14:39:54.011Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
