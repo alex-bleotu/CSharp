@@ -33,6 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="PresentationCore" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -44,6 +45,7 @@
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Form1.cs">
@@ -72,6 +74,18 @@
     <Compile Include="Test3.Designer.cs">
       <DependentUpon>Test3.cs</DependentUpon>
     </Compile>
+    <Compile Include="Test4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Test4.Designer.cs">
+      <DependentUpon>Test4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Test5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Test5.Designer.cs">
+      <DependentUpon>Test5.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -83,6 +97,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <EmbeddedResource Include="Test1.resx">
       <DependentUpon>Test1.cs</DependentUpon>
@@ -92,6 +107,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Test3.resx">
       <DependentUpon>Test3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Test4.resx">
+      <DependentUpon>Test4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Test5.resx">
+      <DependentUpon>Test5.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -105,6 +126,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\gif.gif" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
