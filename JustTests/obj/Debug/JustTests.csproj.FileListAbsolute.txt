@@ -26,3 +26,6 @@ D:\Projects\GitHub\CSharp\JustTests\obj\Debug\JustTests.exe
 D:\Projects\GitHub\CSharp\JustTests\obj\Debug\JustTests.pdb
 D:\Projects\GitHub\CSharp\JustTests\obj\Debug\JustTests.Test4.resources
 D:\Projects\GitHub\CSharp\JustTests\obj\Debug\JustTests.Test5.resources
+D:\Projects\GitHub\CSharp\JustTests\obj\Debug\JustTests.Test6.resources
+D:\Projects\GitHub\CSharp\JustTests\bin\Debug\Test.mdf
+D:\Projects\GitHub\CSharp\JustTests\bin\Debug\Test_log.ldf
