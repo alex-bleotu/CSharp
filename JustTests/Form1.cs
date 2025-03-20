@@ -47,5 +47,11 @@ namespace JustTests {
             Test5 form = new Test5();
             form.Show();
         }
+
+        private void button6_Click(object sender, EventArgs e) {
+            this.Hide();
+            Test6 form = new Test6();
+            form.Show();
+        }
     }
 }

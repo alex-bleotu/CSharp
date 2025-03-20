@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "D:\\Projects\\GitHub\\CSharp\\JustTests\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F6283683-BF16-4201-BE71-7B337E195D4F}|JustTests.csproj|d:\\projects\\github\\csharp\\justtests\\test5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6283683-BF16-4201-BE71-7B337E195D4F}|JustTests.csproj|solutionrelative:test5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F6283683-BF16-4201-BE71-7B337E195D4F}|JustTests.csproj|d:\\projects\\github\\csharp\\justtests\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6283683-BF16-4201-BE71-7B337E195D4F}|JustTests.csproj|solutionrelative:database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6283683-BF16-4201-BE71-7B337E195D4F}|JustTests.csproj|d:\\projects\\github\\csharp\\justtests\\test5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F6283683-BF16-4201-BE71-7B337E195D4F}|JustTests.csproj|solutionrelative:test5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F6283683-BF16-4201-BE71-7B337E195D4F}|JustTests.csproj|d:\\projects\\github\\csharp\\justtests\\test6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6283683-BF16-4201-BE71-7B337E195D4F}|JustTests.csproj|solutionrelative:test6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6283683-BF16-4201-BE71-7B337E195D4F}|JustTests.csproj|D:\\Projects\\GitHub\\CSharp\\JustTests\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6283683-BF16-4201-BE71-7B337E195D4F}|JustTests.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6283683-BF16-4201-BE71-7B337E195D4F}|JustTests.csproj|D:\\Projects\\GitHub\\CSharp\\JustTests\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F6283683-BF16-4201-BE71-7B337E195D4F}|JustTests.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F6283683-BF16-4201-BE71-7B337E195D4F}|JustTests.csproj|d:\\projects\\github\\csharp\\justtests\\test6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6283683-BF16-4201-BE71-7B337E195D4F}|JustTests.csproj|solutionrelative:test6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,57 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Test5.cs",
-              "DocumentMoniker": "D:\\Projects\\GitHub\\CSharp\\JustTests\\Test5.cs",
-              "RelativeDocumentMoniker": "Test5.cs",
-              "ToolTip": "D:\\Projects\\GitHub\\CSharp\\JustTests\\Test5.cs",
-              "RelativeToolTip": "Test5.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAwAkAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Test6.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\GitHub\\CSharp\\JustTests\\Test6.cs",
+              "RelativeDocumentMoniker": "Test6.cs",
+              "ToolTip": "D:\\Projects\\GitHub\\CSharp\\JustTests\\Test6.cs [Design]",
+              "RelativeToolTip": "Test6.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T19:15:33.682Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T07:17:29.433Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Test5.cs [Design]",
-              "DocumentMoniker": "D:\\Projects\\GitHub\\CSharp\\JustTests\\Test5.cs",
-              "RelativeDocumentMoniker": "Test5.cs",
-              "ToolTip": "D:\\Projects\\GitHub\\CSharp\\JustTests\\Test5.cs [Design]",
-              "RelativeToolTip": "Test5.cs [Design]",
+              "Title": "Test6.cs",
+              "DocumentMoniker": "D:\\Projects\\GitHub\\CSharp\\JustTests\\Test6.cs",
+              "RelativeDocumentMoniker": "Test6.cs",
+              "ToolTip": "D:\\Projects\\GitHub\\CSharp\\JustTests\\Test6.cs",
+              "RelativeToolTip": "Test6.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAArwBIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T19:15:14.669Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Projects\\GitHub\\CSharp\\JustTests\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\Projects\\GitHub\\CSharp\\JustTests\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAWwCwAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T14:41:17.021Z",
+              "WhenOpened": "2025-03-20T07:16:41.281Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\Projects\\GitHub\\CSharp\\JustTests\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\Projects\\GitHub\\CSharp\\JustTests\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\Projects\\GitHub\\CSharp\\JustTests\\Database.cs",
+              "RelativeDocumentMoniker": "Database.cs",
+              "ToolTip": "D:\\Projects\\GitHub\\CSharp\\JustTests\\Database.cs",
+              "RelativeToolTip": "Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T14:39:54.011Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-20T07:16:20.516Z",
+              "EditorCaption": ""
             }
           ]
         }
