@@ -10,8 +10,12 @@ using System.Windows.Forms;
 
 namespace ONTI_2024 {
     public partial class Form1 : Form {
+        Database db = new Database();
+
         public Form1() {
             InitializeComponent();
+
+            MessageBox.Show(db.CheckUserExists("test").ToString());
         }
     }
 }

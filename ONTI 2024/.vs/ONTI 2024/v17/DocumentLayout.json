@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "D:\\Projects\\GitHub\\CSharp\\ONTI 2024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79801032-5877-4D43-ABD8-63A7196D4574}|ONTI 2024.csproj|d:\\projects\\github\\csharp\\onti 2024\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{79801032-5877-4D43-ABD8-63A7196D4574}|ONTI 2024.csproj|D:\\Projects\\GitHub\\CSharp\\ONTI 2024\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79801032-5877-4D43-ABD8-63A7196D4574}|ONTI 2024.csproj|solutionrelative:database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79801032-5877-4D43-ABD8-63A7196D4574}|ONTI 2024.csproj|D:\\Projects\\GitHub\\CSharp\\ONTI 2024\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79801032-5877-4D43-ABD8-63A7196D4574}|ONTI 2024.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79801032-5877-4D43-ABD8-63A7196D4574}|ONTI 2024.csproj|D:\\Projects\\GitHub\\CSharp\\ONTI 2024\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{79801032-5877-4D43-ABD8-63A7196D4574}|ONTI 2024.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -19,6 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\Projects\\GitHub\\CSharp\\ONTI 2024\\Database.cs",
+              "RelativeDocumentMoniker": "Database.cs",
+              "ToolTip": "D:\\Projects\\GitHub\\CSharp\\ONTI 2024\\Database.cs",
+              "RelativeToolTip": "Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T08:53:56.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Projects\\GitHub\\CSharp\\ONTI 2024\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Projects\\GitHub\\CSharp\\ONTI 2024\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T08:52:33.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\Projects\\GitHub\\CSharp\\ONTI 2024\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
