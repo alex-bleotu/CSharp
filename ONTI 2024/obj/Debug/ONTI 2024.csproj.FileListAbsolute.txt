@@ -7,3 +7,8 @@ D:\Projects\GitHub\CSharp\ONTI 2024\obj\Debug\ONTI 2024.csproj.GenerateResource.
 D:\Projects\GitHub\CSharp\ONTI 2024\obj\Debug\ONTI 2024.csproj.CoreCompileInputs.cache
 D:\Projects\GitHub\CSharp\ONTI 2024\obj\Debug\ONTI 2024.exe
 D:\Projects\GitHub\CSharp\ONTI 2024\obj\Debug\ONTI 2024.pdb
+D:\Projects\GitHub\CSharp\ONTI 2024\obj\Debug\ONTI_2024.Auth.resources
+D:\Projects\GitHub\CSharp\ONTI 2024\obj\Debug\ONTI_2024.Register.resources
+D:\Projects\GitHub\CSharp\ONTI 2024\obj\Debug\ONTI_2024.Security.resources
+D:\Projects\GitHub\CSharp\ONTI 2024\obj\Debug\ONTI_2024.Calendar.resources
+D:\Projects\GitHub\CSharp\ONTI 2024\obj\Debug\ONTI_2024.Space.resources
