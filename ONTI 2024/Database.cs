@@ -97,7 +97,6 @@ namespace ONTI_2024 {
             email = email.Trim();
             password = password.Trim();
 
-
             var response = usersAdapter.Login(email, Encrypt(password));
             if (response.Rows.Count > 0) {
                 var row = response[0];
