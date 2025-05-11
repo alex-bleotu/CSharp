@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\GitHub\\CSharp\\ONTI 2023 - V2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55BD2868-A40E-400D-8602-2E6406329128}|ONTI 2023 - V2.csproj|d:\\projects\\github\\csharp\\onti 2023 - v2\\jocmemorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55BD2868-A40E-400D-8602-2E6406329128}|ONTI 2023 - V2.csproj|solutionrelative:jocmemorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55BD2868-A40E-400D-8602-2E6406329128}|ONTI 2023 - V2.csproj|d:\\projects\\github\\csharp\\onti 2023 - v2\\artificii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55BD2868-A40E-400D-8602-2E6406329128}|ONTI 2023 - V2.csproj|solutionrelative:artificii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55BD2868-A40E-400D-8602-2E6406329128}|ONTI 2023 - V2.csproj|d:\\projects\\github\\csharp\\onti 2023 - v2\\artificii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55BD2868-A40E-400D-8602-2E6406329128}|ONTI 2023 - V2.csproj|solutionrelative:artificii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55BD2868-A40E-400D-8602-2E6406329128}|ONTI 2023 - V2.csproj|d:\\projects\\github\\csharp\\onti 2023 - v2\\jocmemorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55BD2868-A40E-400D-8602-2E6406329128}|ONTI 2023 - V2.csproj|solutionrelative:jocmemorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Artificii.cs",
+              "DocumentMoniker": "D:\\Projects\\GitHub\\CSharp\\ONTI 2023 - V2\\Artificii.cs",
+              "RelativeDocumentMoniker": "Artificii.cs",
+              "ToolTip": "D:\\Projects\\GitHub\\CSharp\\ONTI 2023 - V2\\Artificii.cs",
+              "RelativeToolTip": "Artificii.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAwD8AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T14:16:58.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Artificii.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\GitHub\\CSharp\\ONTI 2023 - V2\\Artificii.cs",
+              "RelativeDocumentMoniker": "Artificii.cs",
+              "ToolTip": "D:\\Projects\\GitHub\\CSharp\\ONTI 2023 - V2\\Artificii.cs [Design]",
+              "RelativeToolTip": "Artificii.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T14:16:51.972Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JocMemorie.cs",
+              "DocumentMoniker": "D:\\Projects\\GitHub\\CSharp\\ONTI 2023 - V2\\JocMemorie.cs",
+              "RelativeDocumentMoniker": "JocMemorie.cs",
+              "ToolTip": "D:\\Projects\\GitHub\\CSharp\\ONTI 2023 - V2\\JocMemorie.cs*",
+              "RelativeToolTip": "JocMemorie.cs*",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAwwIsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T13:30:38.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JocMemorie.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\GitHub\\CSharp\\ONTI 2023 - V2\\JocMemorie.cs",
+              "RelativeDocumentMoniker": "JocMemorie.cs",
+              "ToolTip": "D:\\Projects\\GitHub\\CSharp\\ONTI 2023 - V2\\JocMemorie.cs [Design]*",
+              "RelativeToolTip": "JocMemorie.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T13:30:36.942Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

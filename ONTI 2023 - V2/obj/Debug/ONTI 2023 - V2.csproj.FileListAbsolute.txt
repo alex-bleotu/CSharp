@@ -1,0 +1,18 @@
+D:\Projects\GitHub\CSharp\ONTI 2023 - V2\bin\Debug\ONTI 2023 - V2.exe.config
+D:\Projects\GitHub\CSharp\ONTI 2023 - V2\bin\Debug\ONTI 2023 - V2.exe
+D:\Projects\GitHub\CSharp\ONTI 2023 - V2\bin\Debug\ONTI 2023 - V2.pdb
+D:\Projects\GitHub\CSharp\ONTI 2023 - V2\obj\Debug\ONTI 2023 - V2.csproj.AssemblyReference.cache
+D:\Projects\GitHub\CSharp\ONTI 2023 - V2\obj\Debug\ONTI_2023___V2.Properties.Resources.resources
+D:\Projects\GitHub\CSharp\ONTI 2023 - V2\obj\Debug\ONTI 2023 - V2.csproj.GenerateResource.cache
+D:\Projects\GitHub\CSharp\ONTI 2023 - V2\obj\Debug\ONTI 2023 - V2.csproj.CoreCompileInputs.cache
+D:\Projects\GitHub\CSharp\ONTI 2023 - V2\obj\Debug\ONTI 2023 - V2.exe
+D:\Projects\GitHub\CSharp\ONTI 2023 - V2\obj\Debug\ONTI 2023 - V2.pdb
+D:\Projects\GitHub\CSharp\ONTI 2023 - V2\obj\Debug\ONTI_2023___V2.Autentificare.resources
+D:\Projects\GitHub\CSharp\ONTI 2023 - V2\obj\Debug\ONTI_2023___V2.Inregistrare.resources
+D:\Projects\GitHub\CSharp\ONTI 2023 - V2\bin\Debug\MessagingToolkit.QRCode.dll
+D:\Projects\GitHub\CSharp\ONTI 2023 - V2\obj\Debug\ONTI 202.95A91109.Up2Date
+D:\Projects\GitHub\CSharp\ONTI 2023 - V2\obj\Debug\ONTI_2023___V2.AlegeJoc.resources
+D:\Projects\GitHub\CSharp\ONTI 2023 - V2\obj\Debug\ONTI_2023___V2.JocMemorie.resources
+D:\Projects\GitHub\CSharp\ONTI 2023 - V2\obj\Debug\ONTI_2023___V2.Artificii.resources
+D:\Projects\GitHub\CSharp\ONTI 2023 - V2\obj\Debug\ONTI_2023___V2.PrimQR.resources
+D:\Projects\GitHub\CSharp\ONTI 2023 - V2\obj\Debug\ONTI_2023___V2.JocLitere.resources

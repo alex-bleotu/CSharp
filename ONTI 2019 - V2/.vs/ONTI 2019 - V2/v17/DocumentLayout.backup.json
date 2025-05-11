@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Projects\\GitHub\\CSharp\\ONTI 2019 - V2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F731ACE2-A364-4589-8FD0-CB73075492C8}|ONTI 2019 - V2.csproj|d:\\projects\\github\\csharp\\onti 2019 - v2\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F731ACE2-A364-4589-8FD0-CB73075492C8}|ONTI 2019 - V2.csproj|solutionrelative:database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F731ACE2-A364-4589-8FD0-CB73075492C8}|ONTI 2019 - V2.csproj|d:\\projects\\github\\csharp\\onti 2019 - v2\\startbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F731ACE2-A364-4589-8FD0-CB73075492C8}|ONTI 2019 - V2.csproj|solutionrelative:startbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\Projects\\GitHub\\CSharp\\ONTI 2019 - V2\\Database.cs",
+              "RelativeDocumentMoniker": "Database.cs",
+              "ToolTip": "D:\\Projects\\GitHub\\CSharp\\ONTI 2019 - V2\\Database.cs",
+              "RelativeToolTip": "Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T10:08:00.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "StartBiblioteca.cs",
               "DocumentMoniker": "D:\\Projects\\GitHub\\CSharp\\ONTI 2019 - V2\\StartBiblioteca.cs",
               "RelativeDocumentMoniker": "StartBiblioteca.cs",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "StartBiblioteca.cs [Design]",
               "DocumentMoniker": "D:\\Projects\\GitHub\\CSharp\\ONTI 2019 - V2\\StartBiblioteca.cs",
               "RelativeDocumentMoniker": "StartBiblioteca.cs",
@@ -54,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PrevizualizareCarte.cs",
               "DocumentMoniker": "D:\\Projects\\GitHub\\CSharp\\ONTI 2019 - V2\\PrevizualizareCarte.cs",
               "RelativeDocumentMoniker": "PrevizualizareCarte.cs",
@@ -67,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PrevizualizareCarte.cs [Design]",
               "DocumentMoniker": "D:\\Projects\\GitHub\\CSharp\\ONTI 2019 - V2\\PrevizualizareCarte.cs",
               "RelativeDocumentMoniker": "PrevizualizareCarte.cs",

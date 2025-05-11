@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{F731ACE2-A364-4589-8FD0-CB73075492C8}|ONTI 2019 - V2.csproj|solutionrelative:database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F731ACE2-A364-4589-8FD0-CB73075492C8}|ONTI 2019 - V2.csproj|d:\\projects\\github\\csharp\\onti 2019 - v2\\startbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F731ACE2-A364-4589-8FD0-CB73075492C8}|ONTI 2019 - V2.csproj|D:\\Projects\\GitHub\\CSharp\\ONTI 2019 - V2\\startbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F731ACE2-A364-4589-8FD0-CB73075492C8}|ONTI 2019 - V2.csproj|solutionrelative:startbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "Database.cs",
               "ToolTip": "D:\\Projects\\GitHub\\CSharp\\ONTI 2019 - V2\\Database.cs",
               "RelativeToolTip": "Database.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAowFcAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T10:08:00.773Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "StartBiblioteca.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T19:20:12.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T19:20:12.036Z"
             },
             {
               "$type": "Document",
@@ -79,8 +78,7 @@
               "RelativeToolTip": "PrevizualizareCarte.cs",
               "ViewState": "AgIAAD8AAAAAAAAAAAAwwDoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T17:43:26.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T17:43:26.328Z"
             },
             {
               "$type": "Document",
@@ -91,8 +89,7 @@
               "ToolTip": "D:\\Projects\\GitHub\\CSharp\\ONTI 2019 - V2\\PrevizualizareCarte.cs [Design]",
               "RelativeToolTip": "PrevizualizareCarte.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T17:42:55.983Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-10T17:42:55.983Z"
             }
           ]
         }
